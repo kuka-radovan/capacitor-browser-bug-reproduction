@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">capacitor-browser-bug-reproduction</string>
+    <string name="title_activity_main">capacitor-browser-bug-reproduction</string>
+    <string name="package_name">com.capacitor.bug</string>
+    <string name="custom_url_scheme">com.capacitor.bug</string>
+</resources>

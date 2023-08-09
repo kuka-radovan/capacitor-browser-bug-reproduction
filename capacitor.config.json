@@ -1,0 +1,11 @@
+{
+  "appId": "com.capacitor.bug",
+  "appName": "capacitor-browser-bug-reproduction",
+  "bundledWebRuntime": false,
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
